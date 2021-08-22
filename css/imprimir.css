@@ -1,0 +1,50 @@
+@media print {
+     
+  #printPageButton {
+    display: none;
+  }
+  #filtroButton {
+    display: none;
+  }
+  #regresarButton {
+  	display: none;
+  } 
+  #OpcionesCuenta {
+  	display: none;
+  }
+  #Cabecera {
+  	display: none;
+  }
+  #BenTabla {
+  	display: none;
+  }
+  #Beneficio {
+  	display: none;
+  }
+  #col {
+  	display: none;
+  }
+  #tabla {
+  	display: none;
+
+  }
+  #border {
+    display: none;
+  }
+
+  #estado {
+    display: none;
+  }
+
+  #label {
+    display: none;
+  }
+  body {
+   zoom:75%;
+  }
+
+  ul, img, table {
+  page-break-inside: avoid;
+  }
+}
+ 

@@ -1,0 +1,18 @@
+#contenedor{
+	width: 1000px;
+	height: 550px;
+	margin: 0.5em auto;
+	padding: 0.5em;
+}
+#header{
+	height: 12%;
+	margin: 1em;
+}
+#header1{
+	height: 25%;
+	margin: 1em;
+}
+#nav{
+	height: 45%;
+	margin: 1em;
+}
